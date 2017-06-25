@@ -85,17 +85,11 @@ td {
 }
 
 .steps {
-  height: 38px;
-  width: 65px;
-  min-width: 38px;
   border-radius: 4px;
   margin-top: 20px;
-  background-color: #48a0df;
-  color: #ffffff;
   font-size: 18px;
   line-height: 38px;
   vertical-align: middle;
-  text-align: center;
 }
 
 .button {
@@ -108,9 +102,7 @@ td {
   background-color: #53b987;
   color: #ffffff;
   font-size: 14px;
-  line-height: 25px;
   font-weight: 900;
-  margin: 20px;
   outline: none;
   cursor: pointer;
 }
